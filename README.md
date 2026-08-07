@@ -38,7 +38,7 @@ pip install opencv-python pillow scikit-image tkinterdnd2
 ## 🚀 How to Run
 
 ```bash
-python "Dsp Project.py"
+python "image-processing-gui.py"
 ```
 
 Make sure you are using a Python environment where `tkinterdnd2` is properly installed and supported.
